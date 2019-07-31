@@ -1,2 +1,2 @@
 # IBM_Coursera_capstone
-Capstone project repository
+Fooling around with Toronto's geodata
